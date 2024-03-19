@@ -1,0 +1,30 @@
+h1,h2{
+    background-color: grey;
+    float: left;
+    text-align:center;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+#purple{
+    background-color: purple;
+    justify-content: space-between;
+    width: 30%;
+}
+#purple1{
+    background-color: purple;
+    justify-content: space-between;
+    width: 30%;
+}
+#top{
+    background-color: grey;
+    color: whitesmoke;
+}
+h2{
+    padding-top: 100px;
+}
+li{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+}
